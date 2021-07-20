@@ -1,0 +1,20 @@
+This package was debianized by Wei-Li Tang <wltang@pixnet.tw> using dh-make-pecl
+on Mon, 19 Jul 2021 15:36:21 +0800.
+
+It was downloaded from https://github.com/vanillahsu/pecl-qrencode
+
+Upstream Author(s):
+
+    Vanilla (San Tai) Hsu
+
+Copyright:
+
+    Copyright (C) 2007 Vanilla (San Tai) Hsu
+
+License:
+
+    BSD
+
+The Debian packaging is copyright 2009, Wei-Li Tang <wltang@pixnet.tw> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+

@@ -1,0 +1,7 @@
+php-qrencode for Debian
+--------------------------
+
+This extension has been created with dh-make-pecl which is part
+of dh-make-php.
+
+ -- Wei-Li Tang <wltang@pixnet.tw>, Mon, 19 Jul 2021 15:36:21 +0800

@@ -1,0 +1,14 @@
+Source: php-qrencode
+Section: web
+Priority: optional
+Maintainer: Wei-Li Tang <wltang@pixnet.tw>
+Build-Depends: debhelper (>= 7), po-debconf, xsltproc , php-dev , libqrencode-dev, libpng-dev
+Standards-Version: 3.9.1
+
+Package: php-qrencode
+Architecture: any
+Depends: ${shlibs:Depends}, ${php:Depends}, ${misc:Depends}, libqrencode4, libpng16-16
+Description: qrencode module for PHP 7.3
+ php qrencode is the wrapper of libqrencode to generate qr code.
+
+

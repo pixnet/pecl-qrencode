@@ -1,0 +1,6 @@
+php-qrencode (0.7-1) unstable; urgency=low
+
+  * Debianized for Debian buster and php7.3
+
+ -- Wei-Li Tang <wltang@pixnet.tw>  Mon, 19 Jul 2021 15:36:21 +0800
+
